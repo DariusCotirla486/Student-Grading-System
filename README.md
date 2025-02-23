@@ -8,3 +8,5 @@ Key features:
   - Object Serialization – Uses Python’s pickle module for efficient data storage and retrieval.
   - Robust Undo/Redo System – Implements cascading undo/redo operations, allowing seamless rollback of changes for better control over modifications.
   - Automated Testing – Includes unit tests to ensure functionality, correctness, and reliability of core components.
+
+Technologies used: Pyhton
